@@ -1,3 +1,3 @@
 typing game 
 
-![git](media/playscreen.mp4)
+![git](https://github.com/Kosuke20020715/typinggame.git/media/playscreen.mp4)
